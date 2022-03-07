@@ -13,8 +13,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [NFT preview card](https://github.com/matiaslgarcia/QR-code---Front-Mentor)
-- Live Site URL: [NFT preview card](https://qr-code-front-mentor.netlify.app/)
+- Solution URL: [NFT preview card](https://github.com/matiaslgarcia/NFT-preview-card--Frontmentor)
+- Live Site URL: [NFT preview card](https://nft-card-front-mentor.netlify.app/)
 
 ### Built with
 
